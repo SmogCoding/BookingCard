@@ -1,13 +1,27 @@
+/* BASE STYLES */
 h2,
 p {
   font-family: sans-serif;
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 40px;
 }
 
 p {
   font-size: 14px;
   line-height: 131%;
+}
+
+/* ADDED CLASSES */
+.card-place {
+  font-size: 32px;
+}
+
+.card-location {
+  font-size: 16px;
+}
+
+.card-price {
+  font-size: 24px;
 }
