@@ -1,0 +1,13 @@
+h2,
+p {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 131%;
+}
